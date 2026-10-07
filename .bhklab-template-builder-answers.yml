@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier
+_commit: 0.14.2
+_src_path: gh:bhklab/bhklab-project-template
+additional_authors_raw: James Bannon
+author_email: bhklab.izabellemarianne@gmail.com
+author_full_name: Izabelle Marianne
+github_username: izabellemarianne
+has_additional_authors: true
+project_description: We aim to develop a novel feature transform based on the construct
+    of Graph Slepians. The idea is to enrich gene expression measurements by mapping
+    expression values to genes in a gene-gene interaction (GGI) graph and then use
+    graph Slepians to focus on subgraphs of interest.
+project_name: Local Graph Feature Transformations for Drug Response Prediction
+project_slug: local-graph-feature-transformations-slepians
+publish_to_github: true
+python_version: '3.13'
+repo_location: bhklab
