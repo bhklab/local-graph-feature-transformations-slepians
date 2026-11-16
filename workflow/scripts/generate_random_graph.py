@@ -15,7 +15,7 @@ def main(config:Dict):
     pos = nx.spring_layout(G, seed=seed) 
     # it's good to have a specified layout so the graph doesn't change with each run
 
-    nx.draw(G)
+    nx.draw(G,pos=pos)
     plt.savefig(dirs.RESULTS / f"{config_name}_random_graph.png")
     plt.close()
 
