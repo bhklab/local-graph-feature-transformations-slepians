@@ -1,0 +1,6 @@
+GRAPH_INFO:
+    config_name: "config1"
+    seed: 1234
+    num_nodes: 10
+    p: 0.3
+    
